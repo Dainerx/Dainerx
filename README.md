@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am active on [Facebook](https://facebook.com/dainerx) if you wanna chat 💬
+
+[![HitCount](http://hits.dwyl.com/Dainerx/Dainerx.svg)](http://hits.dwyl.com/Dainerx/Dainerx)
+
+---
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=dainerx&show_icons=true)
+
+
 <!--
 **Dainerx/Dainerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
