@@ -2,7 +2,9 @@
 
 I am active on [Facebook](https://facebook.com/dainerx) if you wanna chat 💬
 
+<!--
 [![HitCount](http://hits.dwyl.com/Dainerx/Dainerx.svg)](http://hits.dwyl.com/Dainerx/Dainerx)
+-->
 
 ---
 
