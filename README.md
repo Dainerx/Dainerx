@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am active on [Facebook](https://facebook.com/dainerx) if you wanna chat 💬
+I am active on [Facebook](https://facebook.com/dainerx) and [LinkedIn] if you wanna chat 💬
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dainerx.dainerx)
 
 <!--
 [![HitCount](http://hits.dwyl.com/Dainerx/Dainerx.svg)](http://hits.dwyl.com/Dainerx/Dainerx)
