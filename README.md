@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am active on [Facebook](https://facebook.com/dainerx) and [LinkedIn](https://www.linkedin.com/in/oussama-ben-ghorbel/) if you wanna chat 💬
+I am active on [Facebook](https://facebook.com/dainerx) and [LinkedIn](https://www.linkedin.com/in/oussama-ben-ghorbel/) if you wanna chat about computers and stuff 💬
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dainerx.dainerx)
 
