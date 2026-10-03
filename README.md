@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fan of HPC, computer vision, dev tools, and platforms infrastructure mainly Golang /C++/Java, and recently Rust.
+High performance computing, computer vision, dev tools, and platform infrastructure mainly Golang /C++/Java, and recently Rust.
 
 - [LinkedIn](https://www.linkedin.com/in/oussama-ben-ghorbel/) for professional inquiries 💬
 
